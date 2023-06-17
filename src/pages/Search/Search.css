@@ -1,0 +1,13 @@
+.place-div {
+    background-color: #f1f2f1;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.place-link {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.places-found-div {
+    max-height: 230px;
+}

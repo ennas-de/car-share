@@ -1,0 +1,47 @@
+.one-path-div {
+    max-height: 650px;
+}
+
+.iti-bts-div {
+    width: 60%;
+}
+
+.place-name {
+    font-size: 18px;
+}
+
+.place-image-mh {
+    max-height: 190px !important;
+}
+
+.place-image :hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+ul,
+li {
+    list-style-type: none;
+}
+
+.sml-text {
+    font-size: 16px !important;
+}
+
+.path-section-left {
+    width: 70%;
+    border-right: 1px solid black;
+}
+
+.path-section-right {
+    width: 30%;
+}
+
+.align-left {
+    text-align: left;
+    padding-left: 180px;
+    font-size: 19px;
+}
+
+.edit-bg {
+    margin-top: -24px !important;
+}

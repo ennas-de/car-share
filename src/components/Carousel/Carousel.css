@@ -1,0 +1,31 @@
+.carousel-item {
+    height: 550px;
+    object-fit: scale-down;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Sriracha&display=swap");
+
+.sriracha {
+    font-family: "Sriracha", cursive;
+}
+
+.main-phrase {
+    font-size: 60px;
+    position: absolute;
+    left: 28%;
+    bottom: 10%;
+    color: white;
+    margin-top: -200px;
+    z-index: 20;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.8);
+}
+
+.main-phrase-bg {
+    position: absolute;
+    left: 21%;
+    bottom: 20%;
+    z-index: 20;
+    width: 52.2vw;
+    height: 100px;
+    background-color: rgba(3, 39, 3, 0.589);
+}

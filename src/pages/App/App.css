@@ -1,0 +1,64 @@
+.App {
+    text-align: center;
+    width: 90vw;
+}
+
+.pages-bg {
+    background-color: #f1f2f1;
+    margin-top: -71px;
+    margin-left: -90px;
+    margin-right: -90px;
+    height: 760px;
+}
+
+.green {
+    background-color: white;
+    color: darkgreen;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.right {
+    position: relative;
+    right: -40%;
+}
+
+.scroll {
+    overflow-y: scroll;
+}
+
+.a-btn {
+    text-decoration: underline;
+    color: black;
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+}
+
+.line {
+    background-color: rgb(6, 43, 6);
+    height: 1px;
+    width: 100%;
+}
+
+.white,
+.white:hover {
+    color: white;
+}
+
+.place-image {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    max-width: 90%;
+    max-height: 250px;
+}
+
+.basic-top-margin {
+    position: relative;
+    top: 70px;
+}
+
+.basic-title {
+    font-size: 60px;
+}

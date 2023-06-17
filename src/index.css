@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Jaldi:400,700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Jaldi", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    height: 100vh;
+    width: 100vw;
+}
+
+a,
+a:hover {
+    color: black;
+    text-decoration: none;
+}
